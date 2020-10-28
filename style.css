@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  text-align: center;
+  background-color: #a0b2bd;
+}
+
+h1 {
+  margin: 40px;
+  padding: 10PX;
+}
+
+.conntainer{
+  display: flex;
+}
+
+.losning {
+  width: 700px;
+  margin: 30px;
+  text-align: left;
+}
+
+.bilder {
+  margin: 20px;
+  padding: 20px;
+}
+
+table {
+  width: 900px;
+  margin: 30px;
+}
+
+th {
+  text-align: left;
+}
+
+table, th, td{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+  margin: 30px;
+  text-align: left;
+}
+
+.conntainer2 {
+  display: flex;
+}
+
+.teknisk{
+  min-width: 600px;
+  margin: 30px;
+  text-align: left;
+}
+
+.finans{
+  min-width: 600px;
+  margin: 20px;
+  text-align: left;
+}
